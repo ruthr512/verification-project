@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Cocotb / simulator build files
+sim_build/
+*.vvp
+*.vcd
+
+# Generated simulation executables
+fifo_sim
+
+# Test results
+results.xml
